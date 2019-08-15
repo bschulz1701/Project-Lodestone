@@ -4,6 +4,16 @@
 ##### [Mechatronics: Dynamics of Electromechanical and Piezoelectric Systems](Mechatronics_Preumont_2006.pdf)
 Describes the dynamic operation of geophones from a controls and electronic system perspective 
 
+##### The Solid Earth (Excerpts)
+
+Excerpts from textbook regarding seismic basics (waveform drawings and earthquake stats)
+
+**[P114/115](TheSolidEarth_114-5_Fowler_1996.pdf)**
+
+**[P126/127](TheSolidEarth_126-7_Fowler_1996.pdf)**
+
+
+
 
 ## Papers:
 ##### [Improving a Geophone to Produce an Affordable, Broadband Seismometer](ImprovingGeophone_Slides_Barzilai_2000.pdf)
